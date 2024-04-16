@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yankos369
+- 👋 Hi, I’m @Ioannis
 - 👀 I’m interested in data science and eventually become the very best version of myself.
 - 🌱 I’m currently learning  analysis and python -365 data science bootcamp-python from zero to hero 
 - 💞️ I’m looking to collaborate on and assist me whilst i accomplish my goals and work on interesting projects
